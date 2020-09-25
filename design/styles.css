@@ -164,8 +164,9 @@ h1, .quote_text, .access_text {
 .quote_wrapper {
   margin-top: 50px;
   padding: 20px;
+  border: solid 1px #fff;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: hsl(0, 0%, 75%, 0.1);
   width: 400px;
 }
 
